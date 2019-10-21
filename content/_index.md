@@ -3,7 +3,7 @@ title: Home
 sections:
 - type: intro
   template: intro
-  title: Intro
+  title: Straight dialed.
   section_id: intro
   component: intro.html
   content: Yo, Weve! This is pretty lit. I get it now.
